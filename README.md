@@ -28,6 +28,8 @@ Here you can find some the *Web Stream* links and *HTTP Live Streaming* (HLS) fi
 
 ### Playlists
 
+| Artwork | Playlist name | Description |
+| ---         |     ---      |          --- |
 | [![Imgur](https://i.imgur.com/bfixHEU.jpg)](https://open.spotify.com/user/mrmillky/playlist/3pochlVzwhPV7HokkI6v65?si=3dIZb_A8TrGT8dD5Q6Uj-w) | neoPsych | A collection of new-era psych tunes {Updated ~monthly} |
 |  |  |  |
 |  |  |  |
