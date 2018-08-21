@@ -21,12 +21,12 @@ Follow me on:
 
 ## Contents
 
-1. [Radio Stations](#1.-radio-stations)
-2. [#albumyoumusthear playlists](#2.-albumsyoumusthear-playlists)
-3. [Playlists to follow](#3.-playlists-to-follow)
-4. [Other music-related sites](#4.-Other-music-related-sites)
-5. [Spotify resources](4.-Other-music-related-sites)
-6. [Scrobbling from radio](#) *Pending*
+1. [Radio Stations](#1-radio-stations)
+2. [#albumyoumusthear playlists](#2-albumsyoumusthear-playlists)
+3. [Playlists to follow](#3-playlists-to-follow)
+4. [Other music-related sites](#4-other-music-related-sites)
+5. [Spotify resources](#5-spotify-resources)
+6. [Scrobbling from radio](#6-scrobbling-from-radio)
 
 
 ## 1. Radio stations
@@ -118,7 +118,7 @@ I know this has been an issue for some time but I found a workaround. Simply go 
 
 - Drag and drop any of the HLS files (```.m3u``` or ```.pls```) to AIMP queue and start the radio streaming.
 - Enjoy your listening and scrobbling.
-- Note that not every radio station shows the tags of the music your listening and some of them will transmit it in wrong order, e.g. swapped ```<artist>``` and ```<title>``` tags and it will be reflected on your Last.fm account.
+- Note that not every radio station shows the tags of the music you're listening to and some of them will transmit this data in wrong order, e.g. swapped ```<artist>``` and ```<title>``` tags and it will be reflected on your Last.fm account.
 
 ![Imgur](https://i.imgur.com/aNVe2ee.jpg)
 
