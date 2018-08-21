@@ -34,14 +34,13 @@ Here you can find some the *Web Stream* links and *HTTP Live Streaming* (HLS) fi
 
 | Radio Station | Country/Language | Web Stream | HLS Link | Description |
 | :---: | :---: | :---: | :---: | :--- |
-| GRRIF | CH/fr | [(Web Stream)] | [(HLS file)](HLS/GRRIF_AAC_64.m3u) | Indie and alternative classic and new tunes. |
+| GRRIF | CH/fr | [(Web Stream)](https://www.grrif.ch/) | [(HLS file)](HLS/GRRIF_AAC_64.m3u) | Indie and alternative classic and new tunes. |
 | NME Radio 1 | UK/en | [(Web Stream)](https://www.nme.com/audio/nme1/player/) | [(HLS file)](HLS/NME_1.pls) | Indie alternatives from past and present. |
 | NME Radio 2 | UK/en | [(Web Stream)](https://www.nme.com/audio/nme2/player/) | [(HLS file)](HLS/NME_2.pls) | Indie: new and upfront material. |
 | BBC Radio 6 Music | UK/en | [(Web Stream)](http://www.bbc.co.uk/radio/player/bbc_6music) | [(HLS file)](HLS/BBC6_HQ_128.pls) | Alternative music. |
 | KEXP Seattle | US/en | [(Web Stream)](https://www.kexp.org/) | [(HLS file)](HLS/KEXP_aac64.m3u) | Alternative rock/eclectic. |
 | Ibero 90.9 | MX/sp | [(Web Stream)](https://ibero909.fm/playlist-9091) | [(HLS file)](HLS/IBERO_90_1.m3u) | Alternative music in english and spanish. |
 | Radiónica | CO/sp | [(Web Stream)](https://www.radionica.rocks/en-vivo/radionica) | [(HLS file)](HLS/RADIONICA.m3u) | Alternative music in english and spanish. |
-
 
 ___
 ## #albumsyoumusthear playlists
