@@ -6,7 +6,7 @@ Follow me on:
 <a href="https://open.spotify.com/user/mrmillky?si=ri3liOFMShq8yZ8S0_Y_tA" target="_blank"><img src="http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/Spotify-icon.png" height='24px'></a>
 <a href="https://www.last.fm/user/kristen_ud" target="_blank"><img src="http://icons.iconarchive.com/icons/sicons/basic-round-social/24/last.fm-icon.png"></a>
 <a href="https://genius.com/albumsyoumusthear" target="_blank"><img src="https://i.imgur.com/WGJAuM0.jpg"></a>
-<a href="https://www.setlist.fm/user/mrmilky" target="_blank"><img src="https://i.imgur.com/rQVebel.jpg"></a>  
+<a href="https://www.setlist.fm/user/mrmilky" target="_blank"><img src="https://i.imgur.com/rQVebel.jpg"></a>
 <a href="https://soundcloud.com/aymhear" target="_blank"><img src="http://icons.iconarchive.com/icons/danleech/simple/24/soundcloud-icon.png"></a>
 <a href="https://www.youtube.com/channel/UCAC4bHnjSVzI30GDUfErw0g?view_as=subscriber" target="_blank"><img src="http://icons.iconarchive.com/icons/dakirby309/windows-8-metro/24/Web-Youtube-alt-2-Metro-icon.png"></a>
 <a href="https://soundsgood.co/curator/albumsyoumusthear" target="_blank"><img src="https://i.imgur.com/MzUk2P0.png"></a>
@@ -22,11 +22,11 @@ ___
 ## Contents
 
 1. [Radio Stations](#radio-stations)
-2. [#albumyoumusthear playlists](#playlists)
+2. [#albumyoumusthear playlists](#albumsyoumusthear-playlists)
 3. [Playlists to follow](#playlists-to-follow)
-4. [Other music-related sites]() *Pending*
-3. [Spotify resources]() *Pending*
-4. [Scrobbling from radio]() *Pending*
+4. [Other music-related sites](#) *Pending*
+5. [Spotify resources](#) *Pending*
+6. [Scrobbling from radio](#) *Pending*
 ___
 
 ## Radio stations
