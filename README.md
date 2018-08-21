@@ -44,7 +44,7 @@ Here you can find some the *Web Stream* links and *HTTP Live Streaming* (HLS) fi
 
 
 ___
-## #albumyoumusthear playlists
+## #albumsyoumusthear playlists
 I know some of you don't use Spotify... I use it because it's the most popular music platform, hence you will find more add-ons and tools for your music journey. In any case, you can use services like [Soundsgood](http://soundsgood.co/) to convert your playlist into your favorite music platform.
 
 | Artwork | Playlist name | Description |
