@@ -43,12 +43,13 @@ Here you can find some the *Web Stream* links and *HTTP Live Streaming* (HLS) fi
 | Ibero 90.9 | MX/sp | [(Web Stream)](https://ibero909.fm/playlist-9091) | [(HLS file)](HLS/IBERO_90_1.m3u) | Alternative music in english and spanish. |
 | Radiónica | CO/sp | [(Web Stream)](https://www.radionica.rocks/en-vivo/radionica) | [(HLS file)](HLS/RADIONICA.m3u) | Alternative music in english and spanish. |
 
-___
+
 ## 2. #albumsyoumusthear playlists
 I know some of you don't use Spotify... I use it because it is the most popular music platform, hence you are likely to find more add-ons and tools for your music journey. In any case, you can use services like [Soundsgood](http://soundsgood.co/) to convert your playlist into your favorite music platform.
 
 | Artwork | Playlist name | Description |
 | :---: | :---: | :--- |
+| [![Imgur](https://i.imgur.com/d2TLQda.jpg)](https://open.spotify.com/user/mrmillky/playlist/6RdgBPw4gS4kVs7XdKMC1t?si=-oD1P54JTDiFfa4sTkntlg) | allTimeFavs | +5000 songs to play in shuffle mode. |
 | [![Imgur](https://i.imgur.com/bfixHEU.jpg)](https://open.spotify.com/user/mrmillky/playlist/3pochlVzwhPV7HokkI6v65?si=3dIZb_A8TrGT8dD5Q6Uj-w) | neoPsych | A collection of new-era psych tunes {Updated ~monthly} |
 | [![Imgur](https://i.imgur.com/zYxJLZR.jpg)](https://open.spotify.com/user/mrmillky/playlist/1mG3npngh7Shyro6DvIhGM?si=N_EQTDYWRr2itqfHpLQ4wQ) | monthlyMixtape | Classic & new stuff. |
 | [![Imgur](https://i.imgur.com/XgsYPCz.jpg)](https://open.spotify.com/user/mrmillky/playlist/57WwlmhPEqB37O4jIcDmtA?si=wNyqVxz0TauRnIMUnSflUA) | Yearly TOPFAVS | Best of 2018 so far *(Previous years on my Spotify profile).* |
@@ -67,6 +68,16 @@ I know some of you don't use Spotify... I use it because it is the most popular 
 | [BBC 6 Music Playlist](https://open.spotify.com/user/bbc_playlister/playlist/2ahRj2qynhNin0a898mGWc?si=d1WN7UG-TUyrPTVAZhX8_g) | The best new songs in alternative spirit music today. |
 | [High Maintenance](https://open.spotify.com/user/highmaintenancehbo?si=u5SxhD-BQJWk095DQ9q3bA) | HBO's High Maintenance Spotify profile |
 | [Pitchfork's Best New Music](https://open.spotify.com/user/pitchfork/playlist/7q503YgioHAbo1iOIa67M8?si=c-J_5I29QUyORfM9Wh2STg) | Contains all best new tracks. |
+| [Chill-Hop](https://open.spotify.com/user/college.music/playlist/32hJXySZtt9YvnwcYINGZ0?si=8viWha6GQcqGthLAfK3IqA) | Study/chill beats. |
+| [TUNE](https://open.spotify.com/user/tunenewmusic?si=RzP47b4NTae_XX5HRJ8iSQ)| New music playlists. |
+| [Delicieuse Musique](https://open.spotify.com/user/delicieusemusique/playlist/1NRQmQFlwBLw4hd5K1O6lG?si=vqr1uHLPSCyHmKcvhQs7PQ)| Daily dope music dealer. |
+| [/r/listentothis](https://open.spotify.com/user/monoceres/playlist/6qZnImkqxbRtL9FiwqHkGK?si=cqFciRjgTRuygjTMrkQm_w) | Automatically generated from Reddit/r/listentothis.* |
+| [Domino New Releases](https://open.spotify.com/user/dominorecords/playlist/54rYjoSDbWxaNZshiUJ27l?si=X_-w8BVVR2Cn_MxchDNpqQ) | The latest music from the independent label. |
+| [The everlasting broken heart](https://open.spotify.com/user/1254110364/playlist/2HmP6DwXyBJKMTWYjKnYRH?si=e4kfO_AbQgK6yKcTQGfVEQ) | Post break-up music. |
+| [Beats 1 tracks](https://open.spotify.com/user/pbowlesy/playlist/0i9MrcCGZa8Sd3oEdjjca4?si=2KkFFkyvR_C_5ywXgvqzFA) | Tracks played on Beats 1. |
+| [Modern Psychedelia](https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX8gDIpdqp1XJ?si=TAhLqIhvRE26PYbBWooZtA) | Spotify's selection. |
+| [Songs You Know But Can't Name](https://open.spotify.com/user/toomuchnick/playlist/5SB8txQMssBVPc1y9BIBAc?si=njFJTZ9nSnqCdRNVr-LHZw) | Some classic tunes we've heard someday somewhere. |
+| [BBC 6 Music Recommends](https://open.spotify.com/user/bbc_playlister/playlist/6ToRtiBeKUf0py8gZO6gQj?si=n7y7X0J7RbSO1RJWar7yiQ) |  The best in upfront music picked by BBC6 music DJs.|
 
 
 ## 4. Other music-related sites
@@ -92,6 +103,7 @@ I know some of you don't use Spotify... I use it because it is the most popular 
 | [Tenemos un Papá Pirata](https://www.facebook.com/groups/unpapapirata/) | Even more direct links.  |
 | [Rapidleecher](http://www.premiumleecher.com/index.php) | Convert your direct links into premium links so you can skip the waiting times. |
 
+
 ## 5. Spotify resources
 
 | Website | Description |
@@ -108,8 +120,9 @@ I know some of you don't use Spotify... I use it because it is the most popular 
 | [Your 2017 on Spotify](https://open.spotify.com/genre/2017-page) | Statistics from your 2017 Spotify activity. |
 | [Calidad del sonido en Spotify](https://www.genbeta.com/a-fondo/como-asegurarte-de-que-spotify-te-ofrezca-la-mejor-calidad-de-sonido-posible) | [SP] Cómo asegurarte de obtener la mejor calidad de sonido en Spotify. |
 
+
 ## 6. Scrobbling from radio
-I know this has been an issue for some time but I found a workaround. Simply go and download [AIMP player](https://www.aimp.ru/?do=download) ([portable version](https://portableapps.com/apps/music_video/aimp-portable)) and install it on your computer. Although AIMP is designed for Windows, you can use [Wine](https://www.winehq.org/) tu run it on Linux. [Sorry Mac users, I don't like Apple and don't know how to use it well, but I think you can also use Wine -not sure tho-.]
+I know this has been an issue for some time but I found a workaround. Simply go and download [AIMP player](https://www.aimp.ru/?do=download) ([portable version](https://portableapps.com/apps/music_video/aimp-portable)) and install it on your computer. Although AIMP is designed for Windows, you can use [Wine](https://www.winehq.org/) to run it on Linux. [Sorry Mac users, I don't like Apple and don't know how to use it well, but I think you can also use Wine -not sure tho-.]
 
 - Once you run AIMP you go to ```MENU > Preferences``` or hit ```Ctrl + P```.
 - Go to ```Plugins > Last.fm``` and follow the instructions in the pop-up window to login with your account (will lauch authentication on browser).
