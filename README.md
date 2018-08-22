@@ -92,8 +92,8 @@ I know some of you don't use Spotify... I use it because it is the most popular 
 | [Setlist.fm](https://www.setlist.fm/) | Find setlists and keep track of your attended concerts. |
 | [TuneIn](https://tunein.com/) | Listen to free internet radio from all over the world. |
 | [Songkick](https://www.songkick.com/) | Discover concerts near you from your favorite artists and never miss another gig. |
-| [Who Sampled](https://www.whosampled.com/)| Explore the DNA of music by finding direct connections between tracks. |
 | [Bandsintown](https://www.bandsintown.com/) | Another concert discovery app. |
+| [Who Sampled](https://www.whosampled.com/)| Explore the DNA of music by finding direct connections between tracks. |
 | [Has it Leaked](https://hasitleaked.com/) | News and notifications on leaked albums. |
 | [SugarMegs](http://tela.sugarmegs.org/) | +100 000 bootlegs to download. |
 | [indie shuffle](https://www.indieshuffle.com/) | Fresh indie recommendations. |
