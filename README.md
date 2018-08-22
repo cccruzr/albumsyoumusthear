@@ -42,6 +42,7 @@ Here you can find some the *Web Stream* links and *HTTP Live Streaming* (HLS) fi
 | Radio X London | UK/en | [(Web Stream)](https://www.radiox.co.uk/london/radio/player/) | [(HLS file)](HLS/RadioX_London_MP3.m3u) | Alternative and indie rock. |
 | Ibero 90.9 | MX/sp | [(Web Stream)](https://ibero909.fm/playlist-9091) | [(HLS file)](HLS/IBERO_90_1.m3u) | Alternative music in english and spanish. |
 | Radiónica | CO/sp | [(Web Stream)](https://www.radionica.rocks/en-vivo/radionica) | [(HLS file)](HLS/RADIONICA.m3u) | Alternative music in english and spanish. |
+| SOMA Indie Pop Rocks | INT/en | [(Web Stream)](https://somafm.com/indiepop/index.html) | [(HLS file)](HLS/SOMA_FM_indiepop128aac.pls) |  New and classic favorite indie pop tracks. |
 
 
 ## 2. #albumsyoumusthear playlists
@@ -89,17 +90,20 @@ I know some of you don't use Spotify... I use it because it is the most popular 
 | [Soundsgood](https://soundsgood.co/) |  Sync your playlist across popular streaming services. |
 | [Playlists.net](http://playlists.net/) | Another site to create and share playlists. |
 | [Setlist.fm](https://www.setlist.fm/) | Find setlists and keep track of your attended concerts. |
+| [TuneIn](https://tunein.com/) | Listen to free internet radio from all over the world. |
+| [Songkick](https://www.songkick.com/) | Discover concerts near you from your favorite artists and never miss another gig. |
+| [Who Sampled](https://www.whosampled.com/)| Explore the DNA of music by finding direct connections between tracks. |
+| [Bandsintown](https://www.bandsintown.com/) | Another concert discovery app. |
 | [Has it Leaked](https://hasitleaked.com/) | News and notifications on leaked albums. |
 | [SugarMegs](http://tela.sugarmegs.org/) | +100 000 bootlegs to download. |
 | [indie shuffle](https://www.indieshuffle.com/) | Fresh indie recommendations. |
-| [Who Sampled](https://www.whosampled.com/)| Explore the DNA of music by finding direct connections between tracks. |
 | [/r/listentothis](https://www.reddit.com/r/listentothis/) | Reddit with non-mainstream music recommendations. |
 | [/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) | "If I like `<this>`" you'll get recommendations like `<that>`. |
 | [/r/indieheads](https://www.reddit.com/r/indieheads/)| Everything indie-music related. |
 | [/r/radioreddit](https://www.reddit.com/r/radioreddit/) | Radio station with 100% original music created by redditors. |
 | [Music-Map](https://www.music-map.com/)| Creates a map of similar bands based on your query. |
 | [New Album Releases](http://newalbumreleases.net/)| Links to download new releases. |
-| [Plixid](http://plixid.com/) | More links to download. |
+| [Plixid](http://plixid.com/) | More links to download leaks. |
 | [Tenemos un Papá Pirata](https://www.facebook.com/groups/unpapapirata/) | Even more direct links.  |
 | [Rapidleecher](http://www.premiumleecher.com/index.php) | Convert your direct links into premium links so you can skip the waiting times. |
 
