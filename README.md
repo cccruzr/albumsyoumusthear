@@ -34,7 +34,7 @@ Here you can find some the *Web Stream* links and *HTTP Live Streaming* (HLS) fi
 
 | Radio Station | Country /Language | Web Stream | HLS Link | Description |
 | :---: | :---: | :---: | :---: | :--- |
-| GRRIF | CH/fr | [(Web Stream)](https://www.grrif.ch/) | [(HLS file)](HLS/GRRIF_AAC_64.m3u) | Indie and alternative classic and new tunes. |
+| GRRIF | CH/fr | [(Web Stream)](https://www.grrif.ch/) | [(HLS file)](HLS/GRRIF_AAC_64.m3u) | Indie and alternative classic and new tunes.<sup>(Recommended)</sup> |
 | NME Radio 1 | UK/en | [(Web Stream)](https://www.nme.com/audio/nme1/player/) | [(HLS file)](HLS/NME_1.pls) | Indie alternatives from past and present. |
 | NME Radio 2 | UK/en | [(Web Stream)](https://www.nme.com/audio/nme2/player/) | [(HLS file)](HLS/NME_2.pls) | Indie: new and upfront material. |
 | BBC Radio 6 Music | UK/en | [(Web Stream)](http://www.bbc.co.uk/radio/player/bbc_6music) | [(HLS file)](HLS/BBC6_HQ_128.pls) | Alternative music. |
@@ -72,7 +72,7 @@ I know some of you don't use Spotify... I use it because it is the most popular 
 | [Chill-Hop](https://open.spotify.com/user/college.music/playlist/32hJXySZtt9YvnwcYINGZ0?si=8viWha6GQcqGthLAfK3IqA) | Study/chill beats. |
 | [TUNE](https://open.spotify.com/user/tunenewmusic?si=RzP47b4NTae_XX5HRJ8iSQ)| New music playlists. |
 | [Delicieuse Musique](https://open.spotify.com/user/delicieusemusique/playlist/1NRQmQFlwBLw4hd5K1O6lG?si=vqr1uHLPSCyHmKcvhQs7PQ)| Daily dope music dealer. |
-| [/r/listentothis](https://open.spotify.com/user/monoceres/playlist/6qZnImkqxbRtL9FiwqHkGK?si=cqFciRjgTRuygjTMrkQm_w) | Automatically generated from Reddit/r/listentothis.* |
+| [/r/listentothis](https://open.spotify.com/user/monoceres/playlist/6qZnImkqxbRtL9FiwqHkGK?si=cqFciRjgTRuygjTMrkQm_w) | Automatically generated from Reddit/r/listentothis.<sup>(Recommended)</sup> |
 | [Domino New Releases](https://open.spotify.com/user/dominorecords/playlist/54rYjoSDbWxaNZshiUJ27l?si=X_-w8BVVR2Cn_MxchDNpqQ) | The latest music from the independent label. |
 | [The everlasting broken heart](https://open.spotify.com/user/1254110364/playlist/2HmP6DwXyBJKMTWYjKnYRH?si=e4kfO_AbQgK6yKcTQGfVEQ) | Post break-up music. |
 | [Beats 1 tracks](https://open.spotify.com/user/pbowlesy/playlist/0i9MrcCGZa8Sd3oEdjjca4?si=2KkFFkyvR_C_5ywXgvqzFA) | Tracks played on Beats 1. |
@@ -86,10 +86,10 @@ I know some of you don't use Spotify... I use it because it is the most popular 
 | Website | Description |
 | :--- | :--- |
 | [Last.fm](http://last.fm/) | Last.fm builds a detailed profile of each user's musical taste by recording details of the tracks the user listens to. |
-| [Genius Lyrics](http://genius.com/) | Lyrics site that allows users to provide annotations and interpretation of song lyrics.* |
+| [Genius Lyrics](http://genius.com/) | Lyrics site that allows users to provide annotations and interpretation of song lyrics.<sup>(Recommended)</sup> |
 | [Soundsgood](https://soundsgood.co/) |  Sync your playlist across popular streaming services. |
 | [Playlists.net](http://playlists.net/) | Another site to create and share playlists. |
-| [Setlist.fm](https://www.setlist.fm/) | Find setlists and keep track of your attended concerts. |
+| [Setlist.fm](https://www.setlist.fm/) | Find setlists and keep track of your attended concerts.<sup>(Recommended)</sup> |
 | [TuneIn](https://tunein.com/) | Listen to free internet radio from all over the world. |
 | [Songkick](https://www.songkick.com/) | Discover concerts near you from your favorite artists and never miss another gig. |
 | [Bandsintown](https://www.bandsintown.com/) | Another concert discovery app. |
@@ -114,12 +114,13 @@ I know some of you don't use Spotify... I use it because it is the most popular 
 | :--- | :--- |
 | [Spotify Web Player](https://open.spotify.com/browse) | Did you know that you can play Spotify directly in your browser? |
 | [Replayify](https://replayify.com/) | Create playlists with your most played artists/tunes.  |
-| [Spotify Lyrics](https://github.com/fr31/spotifylyrics) | Desktop client to fetch and display lyrics from Spotify.  |
+| [Spotify Lyrics](https://github.com/fr31/spotifylyrics) | Desktop client to fetch and display lyrics from Spotify.<sup>(Recommended)</sup>  |
+| [IFTTT Spotify Recipes](https://ifttt.com/search/query/spotify) | Recipes to automatize some of the common Spotify tasks.<sup>(Recommended)</sup>  |
 | [Lyricfier](https://github.com/emilioastarita/lyricfier) | Another app to have the Spotify current song lyrics. |
 | [Organize Your Music](http://organizeyourmusic.playlistmachinery.com/) | Organize your Spotify music by any of a wide range of musical attributes including genre, mood, decade of release and more. |
 | [Replace Cover](https://replacecover.com/) | Create cool album art for your Spotify playlists. |
 | [Canva](https://www.canva.com/) | Another site to design easy and beautiful playlits covers. |
-| [Setify](https://setify.co/) | Create playlist from setlists. |
+| [Setify](https://setify.co/) | Create playlist from setlists.<sup>(Recommended)</sup> |
 | [Spotify Gaming](http://www.spotify-gaming.com/) | Spotify playlists for gamers. |
 | [Your 2017 on Spotify](https://open.spotify.com/genre/2017-page) | Statistics from your 2017 Spotify activity. |
 | [Calidad del sonido en Spotify](https://www.genbeta.com/a-fondo/como-asegurarte-de-que-spotify-te-ofrezca-la-mejor-calidad-de-sonido-posible) | [SP] Cómo asegurarte de obtener la mejor calidad de sonido en Spotify. |
