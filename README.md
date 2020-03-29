@@ -137,6 +137,8 @@ In this Zenkit repository, I share some of the best stuff I've compiled in the w
 
 🔗[Link to Zenkit board](https://public.zenkit.com/c/2hZxUvbGU/ua2-producción-musical?v=zTyxvlZ7q)
 
+![Zenkit kanban board](https://i.imgur.com/ZRemJ0B.png)
+
 
 ## 7. Scrobbling from radio
 I know this has been an issue for some time but I found a workaround. Simply go and download [AIMP player](https://www.aimp.ru/?do=download) ([portable version](https://portableapps.com/apps/music_video/aimp-portable)) and install it on your computer. Although AIMP is designed for Windows, you can use [Wine](https://www.winehq.org/) to run it on Linux. [Sorry Mac users, I don't like Apple and don't know how to use it well, but I think you can also use Wine -not sure tho-.]
