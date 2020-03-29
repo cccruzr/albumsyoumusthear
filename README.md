@@ -26,7 +26,9 @@ Follow me on:
 3. [Playlists to follow](#3-playlists-to-follow)
 4. [Other music-related sites](#4-other-music-related-sites)
 5. [Spotify resources](#5-spotify-resources)
-6. [Scrobbling from radio](#6-scrobbling-from-radio)
+6. [Music production learning project](#6-music-production-learning-project)
+7. [Scrobbling from radio](#7-scrobbling-from-radio)
+
 
 
 ## 1. Radio stations
@@ -34,13 +36,13 @@ Here you can find some the *Web Stream* links and *HTTP Live Streaming* (HLS) fi
 
 | Radio Station | Country /Language | Web Stream | HLS Link | Description |
 | :---: | :---: | :---: | :---: | :--- |
-| GRRIF | CH/fr | [(Web Stream)](https://www.grrif.ch/) | [(HLS file)](HLS/GRRIF_AAC_64.m3u) | Indie and alternative classic and new tunes.<sup>(Recommended)</sup> |
+| GRRIF | CH/fr | [(Web Stream)](https://www.grrif.ch/) | [(HLS file)](HLS/GRRIF_AAC_64.m3u) | Indie and alternative classic and new tunes.<sup>(⭐Recommended)</sup> |
 | NME Radio 1 | UK/en | [(Web Stream)](https://www.nme.com/audio/nme1/player/) | [(HLS file)](HLS/NME_1.pls) | Indie alternatives from past and present. |
 | NME Radio 2 | UK/en | [(Web Stream)](https://www.nme.com/audio/nme2/player/) | [(HLS file)](HLS/NME_2.pls) | Indie: new and upfront material. |
 | BBC Radio 6 Music | UK/en | [(Web Stream)](http://www.bbc.co.uk/radio/player/bbc_6music) | [(HLS file)](HLS/BBC6_HQ_128.pls) | Alternative music. |
 | KEXP Seattle | US/en | [(Web Stream)](https://www.kexp.org/) | [(HLS file)](HLS/KEXP_aac64.m3u) | Alternative rock/eclectic. |
 | Radio X London | UK/en | [(Web Stream)](https://www.radiox.co.uk/london/radio/player/) | [(HLS file)](HLS/RadioX_London_MP3.m3u) | Alternative and indie rock. |
-| Ibero 90.9 | MX/sp | [(Web Stream)](https://ibero909.fm/playlist-9091) | [(HLS file)](HLS/IBERO_90_1.m3u) | Alternative music in english and spanish. |
+| Ibero 90.9 | MX/sp | [(Web Stream)](https://ibero909.fm/playlist-9091) | [(HLS file)](HLS/IBERO_90_1.m3u) | Alternative music in english and spanish. <sup>(⭐Recommended)</sup> |
 | Radiónica | CO/sp | [(Web Stream)](https://www.radionica.rocks/en-vivo/radionica) | [(HLS file)](HLS/RADIONICA.m3u) | Alternative music in english and spanish. |
 | SOMA Indie Pop Rocks | INT/en | [(Web Stream)](https://somafm.com/indiepop/index.html) | [(HLS file)](HLS/SOMA_FM_indiepop128aac.pls) |  New and classic favorite indie pop tracks. |
 
@@ -51,8 +53,8 @@ I know some of you don't use Spotify... I use it because it is the most popular 
 | Artwork | Playlist name | Description |
 | :---: | :---: | :--- |
 | [![Imgur](https://i.imgur.com/d2TLQda.jpg)](https://open.spotify.com/user/mrmillky/playlist/6RdgBPw4gS4kVs7XdKMC1t?si=-oD1P54JTDiFfa4sTkntlg) | allTimeFavs | +5000 songs to play in shuffle mode. |
-| [![Imgur](https://i.imgur.com/bfixHEU.jpg)](https://open.spotify.com/user/mrmillky/playlist/3pochlVzwhPV7HokkI6v65?si=3dIZb_A8TrGT8dD5Q6Uj-w) | neoPsych | A collection of new-era psych tunes {Updated ~monthly} |
-| [![Imgur](https://i.imgur.com/zYxJLZR.jpg)](https://open.spotify.com/user/mrmillky/playlist/1mG3npngh7Shyro6DvIhGM?si=N_EQTDYWRr2itqfHpLQ4wQ) | monthlyMixtape | Classic & new stuff. |
+| [![Imgur](https://i.imgur.com/bfixHEU.jpg)](https://open.spotify.com/user/mrmillky/playlist/3pochlVzwhPV7HokkI6v65?si=3dIZb_A8TrGT8dD5Q6Uj-w) | neoPsych | A collection of carefully curated new-era psych tunes. <sup>(⭐Recommended)</sup>|
+| [![Imgur](https://i.imgur.com/zYxJLZR.jpg)](https://open.spotify.com/user/mrmillky/playlist/1mG3npngh7Shyro6DvIhGM?si=N_EQTDYWRr2itqfHpLQ4wQ) | monthlyMixtape | Classic & new stuff. Tunes that resonate with me every month. <sup>(⭐Recommended)</sup> |
 | [![Imgur](https://i.imgur.com/XgsYPCz.jpg)](https://open.spotify.com/user/mrmillky/playlist/57WwlmhPEqB37O4jIcDmtA?si=wNyqVxz0TauRnIMUnSflUA) | Yearly TOPFAVS | Best of 2018 so far *(Previous years on my Spotify profile).* |
 | [![Imgur](https://i.imgur.com/CFKmxb7.jpg)](https://open.spotify.com/user/mrmillky/playlist/3kfLW6unGBezYsS6rRnv7x?si=nzp58R9aQFi-22g0TsYJNA) | alternativeParty | A repo with some alternative music to party.  |
 | [![Imgur](https://i.imgur.com/hsTxKi8.jpg)](https://open.spotify.com/user/mrmillky/playlist/3d8Zb2Q5NIQkFfr6UvJIWE?si=oUD5ogi0RqmwX1wa-LlYXQ) | Disco/Funky | Let's groove! |
@@ -65,14 +67,14 @@ I know some of you don't use Spotify... I use it because it is the most popular 
 | :--- | :--- |
 | [Indiemono](https://open.spotify.com/user/sanik007?si=5okBFg_TTjiql50CoiJkjw) | Fresh tunes playlists |
 | [Afternoon Jams](https://open.spotify.com/user/reverbparty/playlist/6uiLbNlHL3N44TiAoDtZfv?si=U6kzhgggSsOswY8BRS91gg) | [Reverb Party](http://reverbparty.com/) psychedelic tunes from all ages. |
-| [Le Sonar de la Semaine](https://open.spotify.com/user/grrifradio/playlist/4P7EzwXHoW8SEUJ0rshVXh?si=xrXl_jNMT_C31VPnckoYCQ) | GRRIF's weekly selection |
+| [Le Sonar de la Semaine](https://open.spotify.com/user/grrifradio/playlist/4P7EzwXHoW8SEUJ0rshVXh?si=xrXl_jNMT_C31VPnckoYCQ) | GRRIF's weekly selection <sup>(⭐Recommended)</sup> |
 | [BBC 6 Music Playlist](https://open.spotify.com/user/bbc_playlister/playlist/2ahRj2qynhNin0a898mGWc?si=d1WN7UG-TUyrPTVAZhX8_g) | The best new songs in alternative spirit music today. |
 | [High Maintenance](https://open.spotify.com/user/highmaintenancehbo?si=u5SxhD-BQJWk095DQ9q3bA) | HBO's High Maintenance Spotify profile |
 | [Pitchfork's Best New Music](https://open.spotify.com/user/pitchfork/playlist/7q503YgioHAbo1iOIa67M8?si=c-J_5I29QUyORfM9Wh2STg) | Contains all best new tracks. |
 | [Chill-Hop](https://open.spotify.com/user/college.music/playlist/32hJXySZtt9YvnwcYINGZ0?si=8viWha6GQcqGthLAfK3IqA) | Study/chill beats. |
 | [TUNE](https://open.spotify.com/user/tunenewmusic?si=RzP47b4NTae_XX5HRJ8iSQ)| New music playlists. |
 | [Delicieuse Musique](https://open.spotify.com/user/delicieusemusique/playlist/1NRQmQFlwBLw4hd5K1O6lG?si=vqr1uHLPSCyHmKcvhQs7PQ)| Daily dope music dealer. |
-| [/r/listentothis](https://open.spotify.com/user/monoceres/playlist/6qZnImkqxbRtL9FiwqHkGK?si=cqFciRjgTRuygjTMrkQm_w) | Automatically generated from Reddit/r/listentothis.<sup>(Recommended)</sup> |
+| [/r/listentothis](https://open.spotify.com/user/monoceres/playlist/6qZnImkqxbRtL9FiwqHkGK?si=cqFciRjgTRuygjTMrkQm_w) | Automatically generated from Reddit/r/listentothis.<sup>(Recommended)</sup> <sup>(⭐Recommended)</sup> |
 | [Domino New Releases](https://open.spotify.com/user/dominorecords/playlist/54rYjoSDbWxaNZshiUJ27l?si=X_-w8BVVR2Cn_MxchDNpqQ) | The latest music from the independent label. |
 | [The everlasting broken heart](https://open.spotify.com/user/1254110364/playlist/2HmP6DwXyBJKMTWYjKnYRH?si=e4kfO_AbQgK6yKcTQGfVEQ) | Post break-up music. |
 | [Beats 1 tracks](https://open.spotify.com/user/pbowlesy/playlist/0i9MrcCGZa8Sd3oEdjjca4?si=2KkFFkyvR_C_5ywXgvqzFA) | Tracks played on Beats 1. |
@@ -86,18 +88,18 @@ I know some of you don't use Spotify... I use it because it is the most popular 
 | Website | Description |
 | :--- | :--- |
 | [Last.fm](http://last.fm/) | Last.fm builds a detailed profile of each user's musical taste by recording details of the tracks the user listens to. |
-| [Genius Lyrics](http://genius.com/) | Lyrics site that allows users to provide annotations and interpretation of song lyrics.<sup>(Recommended)</sup> |
-| [Soundsgood](https://soundsgood.co/) |  Sync your playlist across popular streaming services. |
+| [Genius Lyrics](http://genius.com/) | Lyrics site that allows users to provide annotations and interpretation of song lyrics.<sup>(⭐Recommended)</sup> |
+| [Soundsgood](https://soundsgood.co/) |  Sync your playlist across popular streaming services. <sup>(⭐Recommended)</sup>|
 | [Playlists.net](http://playlists.net/) | Another site to create and share playlists. |
 | [Setlist.fm](https://www.setlist.fm/) | Find setlists and keep track of your attended concerts.<sup>(Recommended)</sup> |
 | [TuneIn](https://tunein.com/) | Listen to free internet radio from all over the world. |
-| [Songkick](https://www.songkick.com/) | Discover concerts near you from your favorite artists and never miss another gig. |
+| [Songkick](https://www.songkick.com/) | Discover concerts near you from your favorite artists and never miss another gig. <sup>(⭐Recommended)</sup>|
 | [Bandsintown](https://www.bandsintown.com/) | Another concert discovery app. |
 | [Who Sampled](https://www.whosampled.com/)| Explore the DNA of music by finding direct connections between tracks. |
 | [Has it Leaked](https://hasitleaked.com/) | News and notifications on leaked albums. |
 | [SugarMegs](http://tela.sugarmegs.org/) | +100 000 bootlegs to download. |
 | [indie shuffle](https://www.indieshuffle.com/) | Fresh indie recommendations. |
-| [/r/listentothis](https://www.reddit.com/r/listentothis/) | Reddit with non-mainstream music recommendations. |
+| [/r/listentothis](https://www.reddit.com/r/listentothis/) | Reddit with non-mainstream music recommendations. <sup>(⭐Recommended)</sup>|
 | [/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) | "If I like `<this>`" you'll get recommendations like `<that>`. |
 | [/r/indieheads](https://www.reddit.com/r/indieheads/)| Everything indie-music related. |
 | [/r/radioreddit](https://www.reddit.com/r/radioreddit/) | Radio station with 100% original music created by redditors. |
@@ -105,7 +107,7 @@ I know some of you don't use Spotify... I use it because it is the most popular 
 | [New Album Releases](http://newalbumreleases.net/)| Links to download new releases. |
 | [Plixid](http://plixid.com/) | More links to download leaks. |
 | [Tenemos un Papá Pirata](https://www.facebook.com/groups/unpapapirata/) | Even more direct links.  |
-| [Rapidleecher](http://www.premiumleecher.com/index.php) | Convert your direct links into premium links so you can skip the waiting times. |
+| [Rapidleecher](http://www.premiumleecher.com/index.php) | Convert your download links into premium links so you can skip the waiting times. |
 
 
 ## 5. Spotify resources
@@ -114,19 +116,29 @@ I know some of you don't use Spotify... I use it because it is the most popular 
 | :--- | :--- |
 | [Spotify Web Player](https://open.spotify.com/browse) | Did you know that you can play Spotify directly in your browser? |
 | [Replayify](https://replayify.com/) | Create playlists with your most played artists/tunes.  |
-| [Spotify Lyrics](https://github.com/fr31/spotifylyrics) | Desktop client to fetch and display lyrics from Spotify.<sup>(Recommended)</sup>  |
-| [IFTTT Spotify Recipes](https://ifttt.com/search/query/spotify) | Recipes to automatize some of the common Spotify tasks.<sup>(Recommended)</sup>  |
+| [Discover Quickly](https://discoverquickly.com/) | An interface to quicky and easily discover music from Spotify.<sup>(⭐Recommended)</sup> |
+| [Spotify Lyrics](https://github.com/fr31/spotifylyrics) | Desktop client to fetch and display lyrics from Spotify.<sup>(⭐Recommended)</sup>  |
+| [IFTTT Spotify Recipes](https://ifttt.com/search/query/spotify) | Recipes to automatize some of the common Spotify tasks.<sup>(⭐Recommended)</sup>  |
 | [Lyricfier](https://github.com/emilioastarita/lyricfier) | Another app to have the Spotify current song lyrics. |
+| [Musixmatch](https://musixmatch.com) | Desktop and mobile app to fetch and display syncronized lyrics for the music you play. Works for karaoke and learning languages as well!<sup>(⭐Recommended)</sup>  |
 | [Organize Your Music](http://organizeyourmusic.playlistmachinery.com/) | Organize your Spotify music by any of a wide range of musical attributes including genre, mood, decade of release and more. |
 | [Replace Cover](https://replacecover.com/) | Create cool album art for your Spotify playlists. |
 | [Canva](https://www.canva.com/) | Another site to design easy and beautiful playlits covers. |
-| [Setify](https://setify.co/) | Create playlist from setlists.<sup>(Recommended)</sup> |
+| [Setify](https://setify.co/) | Create playlist from setlists.<sup>(⭐Recommended)</sup> |
 | [Spotify Gaming](http://www.spotify-gaming.com/) | Spotify playlists for gamers. |
 | [Your 2017 on Spotify](https://open.spotify.com/genre/2017-page) | Statistics from your 2017 Spotify activity. |
 | [Calidad del sonido en Spotify](https://www.genbeta.com/a-fondo/como-asegurarte-de-que-spotify-te-ofrezca-la-mejor-calidad-de-sonido-posible) | [SP] Cómo asegurarte de obtener la mejor calidad de sonido en Spotify. |
 
 
-## 6. Scrobbling from radio
+## 6. Music production learning project
+In 2020, I started an auto-directed study project to learn music production.
+For free and by myself at my own pace.
+In this Zenkit repository, I share some of the best stuff I've compiled in the web to become a Music Producer in the digital age.
+
+🔗[Link to Zenkit board](https://public.zenkit.com/c/2hZxUvbGU/ua2-producción-musical?v=zTyxvlZ7q)
+
+
+## 7. Scrobbling from radio
 I know this has been an issue for some time but I found a workaround. Simply go and download [AIMP player](https://www.aimp.ru/?do=download) ([portable version](https://portableapps.com/apps/music_video/aimp-portable)) and install it on your computer. Although AIMP is designed for Windows, you can use [Wine](https://www.winehq.org/) to run it on Linux. [Sorry Mac users, I don't like Apple and don't know how to use it well, but I think you can also use Wine -not sure tho-.]
 
 - Once you run AIMP you go to ```MENU > Preferences``` or hit ```Ctrl + P```.
@@ -142,4 +154,5 @@ I know this has been an issue for some time but I found a workaround. Simply go 
 
 _____
 
-Camilo Cruz, 2018.
+Camilo Cruz, 2018-2020.
+[@albumsyoumusthear](https://www.instagram.com/albumsyoumusthear/)
